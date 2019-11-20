@@ -1,3 +1,4 @@
+#docker file configuration
 FROM node:latest
 
 COPY . /app
